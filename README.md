@@ -1,6 +1,7 @@
 # Srun account hunter
 
 Get account and password to use WIFI (Srun深澜)
+This tool won't be updated anymore because I've graduated from my school. No testing environment anymore. Currentlu it still work. You can still refer these code when you try to break Srun campus network.
 
 ## Why this tool?
 
